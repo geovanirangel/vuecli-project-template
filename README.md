@@ -1,5 +1,7 @@
 # vuecli-project-template
 
+With Bootstrap 5
+
 ## Project setup
 ```
 npm install

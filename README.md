@@ -1,6 +1,8 @@
 # vuecli-project-template
+Template for SPA with vue.js
 
-With Bootstrap 5
+
+Include Bootstrap 5(beta) and BootstrapIcons
 
 ## Project setup
 ```
@@ -16,11 +18,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
